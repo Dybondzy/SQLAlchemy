@@ -110,6 +110,7 @@ Upload the following to your surfs_up GitHub repository:
 
 The SurfsUp_Challenge.ipynb file.
 The hawaii.sqlite file.
+https://github.com/Dybondzy/surfs_up/blob/main/hawaii.sqlite
 
 An updated README.md that has your written analysis
 
