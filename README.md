@@ -98,11 +98,18 @@ Once you’re ready to submit, make sure to check your work against the rubric t
 As a reminder, the deliverables for this Challenge are as follows:
 
 Deliverable 1: Determine the Summary Statistics for June
+https://github.com/Dybondzy/surfs_up/blob/main/SurfsUp_Challenge.ipynb
+
 Deliverable 2: Determine the Summary Statistics for December
+https://github.com/Dybondzy/surfs_up/blob/main/SurfsUp_Challenge.ipynb
+
 Deliverable 3: A written report for the statistical analysis (README.md)
+https://github.com/Dybondzy/surfs_up/edit/main/README.md
+
 Upload the following to your surfs_up GitHub repository:
 
 The SurfsUp_Challenge.ipynb file.
 The hawaii.sqlite file.
+
 An updated README.md that has your written analysis
 
