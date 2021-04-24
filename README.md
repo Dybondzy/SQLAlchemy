@@ -29,9 +29,7 @@ In Step 2, convert the June temperatures to a list.
 In Step 3, create a DataFrame from the list of temperatures for the month of June.
 In Step 4, generate the summary statistics for the June temperatures DataFrame.
 After you run Step 4 in your SurfsUp_Challenge.ipynb file, confirm that the summary statistics match the image below
-
-png
-
+https://github.com/Dybondzy/surfs_up/blob/main/June_Temps.png
 
 Deliverable 1 Requirements
 You will earn a perfect score for Deliverable 1 by completing all requirements below:
@@ -52,10 +50,7 @@ In Step 7, convert the December temperatures to a list.
 In Step 8, create a DataFrame from the list of temperatures for the month of December.
 In Step 9, generate the summary statistics for the December temperatures DataFrame.
 After you run Step 9 in your SurfsUp_Challenge.ipynb file, confirm that the summary statistics match the image below.
-
-png
-
-
+https://github.com/Dybondzy/surfs_up/blob/main/Dec_Temps.png
 
 Deliverable 2 Requirements
 You will earn a perfect score for Deliverable 2 by completing all requirements below:
