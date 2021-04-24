@@ -91,7 +91,6 @@ The purpose of the analysis is well defined. (3 pt)
 Results:
 
 There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
-### Summary:
 
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
 Submission
@@ -99,7 +98,7 @@ Once you’re ready to submit, make sure to check your work against the rubric t
 
 As a reminder, the deliverables for this Challenge are as follows:
 
-## Results
+## Summary of Results
 
 Deliverable 1: Determine the Summary Statistics for June
 https://github.com/Dybondzy/surfs_up/blob/main/SurfsUp_Challenge.ipynb
